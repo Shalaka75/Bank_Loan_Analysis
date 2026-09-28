@@ -19,3 +19,18 @@ The dashboard provides meaningful insights into **loan trends, loan status, cust
 - 🔄 **Power Query** – Data cleaning and transformation
 - 🧮 **DAX** – KPI calculations and analytical measures
 - 🗄️ **SQL** – Data analysis and querying
+## 📑 Dashboard Pages
+### 1️⃣ Summary Dashboard
+Provides a high-level overview of overall loan performance.
+**Key Metrics:**
+- Total Loan Applications
+- Total Funded Amount
+- Total Amount Received
+- Average Interest Rate
+- Average DTI
+- Good Loan Applications
+- Good Loan Funded Amount
+- Bad Loan Applications
+- Bad Loan Funded Amount
+- Loan Status Analysis
+- MTD & MoM Performance
