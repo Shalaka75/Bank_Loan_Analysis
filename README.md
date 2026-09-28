@@ -35,4 +35,4 @@ Provides a high-level overview of overall loan performance.
 - Loan Status Analysis
 - MTD & MoM Performance
 
-![Bank_Loan_Analysis](Bank_Loan Summary.png)
+![Bank_Loan_Analysis](Bank_Loan Details.png)
