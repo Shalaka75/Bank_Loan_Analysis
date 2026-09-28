@@ -34,3 +34,4 @@ Provides a high-level overview of overall loan performance.
 - Bad Loan Funded Amount
 - Loan Status Analysis
 - MTD & MoM Performance
+![Bank_Loan_Analysis](Bank_Loan Summary.png)
