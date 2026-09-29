@@ -22,17 +22,13 @@ The dashboard provides meaningful insights into **loan trends, loan status, cust
 ## 📑 Dashboard Pages
 ### 1️⃣ Summary Dashboard
 Provides a high-level overview of overall loan performance.
-**Key Metrics:**
-- Total Loan Applications
-- Total Funded Amount
-- Total Amount Received
-- Average Interest Rate
-- Average DTI
-- Good Loan Applications
-- Good Loan Funded Amount
-- Bad Loan Applications
-- Bad Loan Funded Amount
-- Loan Status Analysis
-- MTD & MoM Performance
 
 ![Bank_Loan_Analysis](Summary.png)
+
+### 2️⃣ Overview Dashboard
+Provides detailed analysis of loan applications and borrower trends.
+![Bank_Loan_Analysis](Overview.png)
+
+### 3️⃣ Details Dashboard
+Provides detailed loan-level information.
+![Bank_Loan_Analysis](Details.png)
